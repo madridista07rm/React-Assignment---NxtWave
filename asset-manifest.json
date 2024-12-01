@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Assignment---NxtWave/static/css/main.79d19d76.css",
+    "main.js": "/React-Assignment---NxtWave/static/js/main.b9166cae.js",
+    "static/js/453.72003d17.chunk.js": "/React-Assignment---NxtWave/static/js/453.72003d17.chunk.js",
+    "static/media/error-image.jpg": "/React-Assignment---NxtWave/static/media/error-image.d88501b7df68c4a9b001.jpg",
+    "static/media/arrow-right.png": "/React-Assignment---NxtWave/static/media/arrow-right.fab37ef13f55024fca17.png",
+    "static/media/arrow.png": "/React-Assignment---NxtWave/static/media/arrow.4c5e60614550c07926fc.png",
+    "index.html": "/React-Assignment---NxtWave/index.html",
+    "main.79d19d76.css.map": "/React-Assignment---NxtWave/static/css/main.79d19d76.css.map",
+    "main.b9166cae.js.map": "/React-Assignment---NxtWave/static/js/main.b9166cae.js.map",
+    "453.72003d17.chunk.js.map": "/React-Assignment---NxtWave/static/js/453.72003d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.b9166cae.js"
+  ]
+}
